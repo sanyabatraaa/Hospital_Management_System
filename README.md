@@ -10,3 +10,4 @@ efficient care for urgent situations.
 Created a dedicated admin dashboard that allows administrators to easily approve or
 reject appointments and connect with doctors across various specialties, streamlining the
 management and coordination of patient care
+Currently working on emergency feature Rest all backend and both the frontend are completed
