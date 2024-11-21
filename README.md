@@ -11,3 +11,26 @@ Created a dedicated admin dashboard that allows administrators to easily approve
 reject appointments and connect with doctors across various specialties, streamlining the
 management and coordination of patient care
 Currently working on emergency feature Rest all backend and both the frontend are completed
+
+
+HOW TO TEST DASHBOARD?
+login credentials:-
+email: richa@gmail.com
+password:789456123
+
+you will be logged in as admin
+yow will have the following permissions:
+a) Accept , reject , delay the appointments
+b) View the list of all doctors
+c) Add a nmew admin
+d) View All the messages received by the forms on the frontend
+
+
+HOW TO TEST FRONTEND?
+register as a patient and start exploring the website
+
+Regards
+Sanya Batra
+
+
+
